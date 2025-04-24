@@ -1,0 +1,51 @@
+TicketID,IssueDescription,Category,ResolutionTime,Status
+T001,App crashes on login,Technical,2 hours,Closed
+T002,Incorrect billing amount,Billing,1 hour,Closed
+T003,Password reset not working,Technical,3 hours,Open
+T004,Feature request for dark mode,Feature,4 hours,Open
+T005,App crashes on login,Technical,2.5 hours,Closed
+T006,Payment not processed,Billing,1.5 hours,Closed
+T007,App crashes on login,Technical,2 hours,Closed
+T008,Login error after update,Technical,3 hours,Open
+T009,Refund not received,Billing,2 hours,Closed
+T010,Slow app performance,Technical,4 hours,Open
+T011,Unable to upload profile picture,Technical,2 hours,Closed
+T012,Subscription not activated,Billing,1.5 hours,Open
+T013,App freezes during checkout,Technical,3.5 hours,Open
+T014,Request for offline mode,Feature,5 hours,Open
+T015,Error 404 on dashboard,Technical,2 hours,Closed
+T016,Double charged for subscription,Billing,1 hour,Closed
+T017,App crashes on payment screen,Technical,3 hours,Open
+T018,Unable to reset security questions,Technical,2.5 hours,Closed
+T019,Feature request for notifications,Feature,4 hours,Open
+T020,Billing dispute over discount,Billing,2 hours,Closed
+T021,App not syncing with cloud,Technical,3 hours,Open
+T022,Login fails with correct credentials,Technical,2 hours,Closed
+T023,Refund delayed,Billing,2.5 hours,Open
+T024,App crashes after update,Technical,3 hours,Open
+T025,Request for multi-user support,Feature,5 hours,Open
+T026,Error loading profile,Technical,2 hours,Closed
+T027,Payment declined incorrectly,Billing,1.5 hours,Closed
+T028,App freezes on startup,Technical,3.5 hours,Open
+T029,Unable to cancel subscription,Billing,2 hours,Closed
+T030,Slow response on chat support,Support,4 hours,Open
+T031,App crashes during video playback,Technical,2.5 hours,Closed
+T032,Billing error on renewal,Billing,1 hour,Closed
+T033,Feature request for analytics,Feature,4 hours,Open
+T034,Login timeout error,Technical,3 hours,Open
+T035,Unable to download reports,Technical,2 hours,Closed
+T036,Overcharged on invoice,Billing,1.5 hours,Closed
+T037,App not compatible with iOS,Technical,3.5 hours,Open
+T038,Request for API integration,Feature,5 hours,Open
+T039,Error 500 on checkout,Technical,2 hours,Closed
+T040,Refund not processed,Billing,2.5 hours,Open
+T041,App crashes on search,Technical,3 hours,Open
+T042,Unable to update profile,Technical,2 hours,Closed
+T043,Billing dispute on trial,Billing,1.5 hours,Closed
+T044,Feature request for chat,Feature,4 hours,Open
+T045,Slow app loading,Technical,3.5 hours,Open
+T046,Payment gateway error,Billing,2 hours,Closed
+T047,App freezes on settings,Technical,3 hours,Open
+T048,Unable to contact support,Support,4 hours,Open
+T049,Error syncing data,Technical,2.5 hours,Closed
+T050,Subscription renewal failed,Billing,1.5 hours,Closed
